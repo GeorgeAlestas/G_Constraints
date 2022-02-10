@@ -1,6 +1,7 @@
 # Constraining a late time transition of G_eff using low-z galaxy survey data
 
-[![Travis](https://img.shields.io/badge/language-Mathematica-green.svg)]()
+[![Travis](https://img.shields.io/badge/language-Mathematica-green.svg)]() 
+[![Travis](https://img.shields.io/badge/arXiv-2201.05846-orange.svg?style=flat)](https://arxiv.org/abs/2201.05846)
 
 <p align="center">
 <img src="preview.png" width="700" title="preview" />
